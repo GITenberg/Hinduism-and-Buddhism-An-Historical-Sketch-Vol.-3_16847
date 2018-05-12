@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/4887
     wikipedia: http://en.wikipedia.org/wiki/Charles_Eliot_(diplomat)
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/16847#Hinduism-and-Buddhism-An-Historical-Sketch-Vol.-3
 gutenberg_bookshelf:
 - Hinduism
 - Buddhism
